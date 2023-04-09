@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Page Title</title>
+    <style>
+    body {background-color: powderblue;}
+    h2 {color: red;}
+    p {color: brown;}
+  </style>
+  </head>
+  <body>
+    <h1 style="font-size:60px;">Riccardo Rizzo</h1>
+        <hr>
+  </body>
+</html>
